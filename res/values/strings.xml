@@ -1,0 +1,32 @@
+<resources>
+    <string name="app_name">Lab 3</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="welcome">Welcome!</string>
+    <string name="grow_healthy_habits_nnourish_your_mind">Grow healthy habits.\nNourish your mind.</string>
+    <string name="hi">Hi!</string>
+    <string name="stay_consistent_nbuild_your_future">Stay consistent.\nBuild your future.</string>
+    <string name="reminder">Reminder!</string>
+    <string name="track_progress_ncelebrate_wins">Track progress.\nCelebrate wins.</string>
+    <string name="your_progress_0">Your progress: 0%</string>
+    <string name="date">Date: --/--/----</string>
+    <string name="save_date">Save Date</string>
+    <string name="enter_a_habit">Enter a habit</string>
+    <string name="add">Add</string>
+    <string name="mood_today">Mood today?</string>
+    <string name="mood_entries">Mood Entries</string>
+    <string name="select_reminder_interval">Select Reminder Interval</string>
+    <string name="every_1_hour_s_0_minute_s">Every 1 hour(s) 0 minute(s)</string>
+    <string name="save_reminder">Save Reminder</string>
+    <string name="app_settings">App Settings</string>
+    <string name="enable_notifications">Enable Notifications</string>
+    <string name="enable_dark_mode">Enable Dark Mode</string>
+    <string name="daily_habits">Daily Habits</string>
+    <string name="build_better_routines_and_track_your_progress_easily">Build better routines and track your progress easily.</string>
+    <string name="mood_journal">Mood Journal</string>
+    <string name="log_how_you_feel_each_day_with_emojis_and_notes">Log how you feel each day with emojis and notes</string>
+    <string name="next">Next</string>
+    <string name="stay_hydrated">Stay Hydrated</string>
+    <string name="get_smart_reminders_to_drink_enough_water_daily">Get smart reminders to drink enough water daily.</string>
+    <string name="get_started">Get Started</string>
+</resources>

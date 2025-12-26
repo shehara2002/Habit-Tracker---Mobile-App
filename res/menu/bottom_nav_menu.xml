@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item android:id="@+id/nav_habbit"
+        android:title="Habbit"
+        android:icon="@drawable/outline_deceased_24"
+        />
+
+    <item android:id="@+id/nav_mood"
+        android:title="Mood"
+        android:icon="@drawable/face"
+        />
+
+    <item android:id="@+id/nav_settings"
+        android:title="Settings"
+        android:icon="@drawable/settings"
+        />
+
+</menu>

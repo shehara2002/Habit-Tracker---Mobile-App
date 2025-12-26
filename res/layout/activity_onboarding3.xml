@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/main"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/white"
+    tools:context=".UI.Onboarding3Activity">
+
+    <ImageView
+        android:layout_width="300dp"
+        android:id="@+id/searchImage"
+        android:layout_height="300dp"
+        android:src="@drawable/onboard3"
+        android:layout_marginTop="150dp"
+        android:foregroundGravity="center"
+        android:layout_centerHorizontal="true" />
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="@string/stay_hydrated"
+        android:textColor="@color/primary"
+        android:id="@+id/boarding_des1"
+        android:layout_below="@id/searchImage"
+        android:layout_centerHorizontal="true"
+        android:textStyle="bold"
+        android:textSize="32sp" />
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="@string/get_smart_reminders_to_drink_enough_water_daily"
+        android:textColor="@color/black"
+        android:id="@+id/boarding_des2"
+        android:layout_below="@+id/boarding_des1"
+        android:layout_centerHorizontal="true"
+        android:textStyle="bold"
+        android:textSize="20sp"
+        android:gravity="center"
+        android:layout_marginStart="32dp"
+        android:layout_marginEnd="32dp"/>
+
+    <Button
+        android:layout_width="180dp"
+        android:layout_height="60dp"
+        android:text="@string/get_started"
+        android:layout_below="@+id/boarding_des2"
+        android:id="@+id/onboarding3Btn"
+        android:layout_centerHorizontal="true"
+        android:layout_marginTop="50dp"/>
+
+
+
+</RelativeLayout>
